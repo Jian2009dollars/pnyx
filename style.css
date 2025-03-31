@@ -1,0 +1,56 @@
+* {
+    margin:0;
+    font-family: Georgia;
+}
+
+div.header{
+    background-color: maroon;
+    width: 50;
+    height: 10;
+    text-align: center;
+}
+
+
+p{
+    text-align: justified;
+    color:white;
+}
+
+}
+
+        h2 {
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+        }
+
+    p {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+			padding: 20;
+         
+            text-align: center; /* Aligns text horizontally */
+         }
+ 
+   
+		
+		h2 {
+    margin: 0 auto; /* Centers the element horizontally */
+    display: inline-block; /* Prevents extra space from being highlighted */
+    padding: 5px; /* Adds spacing inside the element */
+    background-color: maroon; /* Highlight color */
+    color: black; /* Text color */
+    text-align: center; /* Aligns text horizontally */
+    border-radius: 15px; /* Makes the edges rounded */
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 7vh;
+}
